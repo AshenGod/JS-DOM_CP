@@ -45,8 +45,13 @@ section {
     font-family: Goudy Old Style;
     font-size: medium;
 }
-.fonts {
-    display: flex;
-    justify-content: space-evenly;
-    font-size: large;
+#H,#T {
+    font-size: 25px;
+}
+#T {
+    padding-left: 8px;
+}
+
+#H {
+    padding-left: 78%;
 }
